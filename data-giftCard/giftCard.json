@@ -1,0 +1,113 @@
+{
+  "register": [
+    {
+      "id": 1,
+      "userName": "Pavani",
+      "email": "pavanireddy@test.com",
+      "password": "pavani$1",
+      "confirmPassword": "pavani$1"
+    },
+    {
+      "id": 2,
+      "userName": "sunny",
+      "email": "sunny@test.com",
+      "password": "sunny$2",
+      "confirmPassword": "sunny$2"
+    },
+    {
+      "userName": "pavani",
+      "email": "pavani@test.com",
+      "password": "pavani$1",
+      "confirmPassword": "pavani$1",
+      "id": 3
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "userName": "Nandini",
+      "password": "nandu@123"
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "adminUser": "admin",
+      "adminPass": "admin"
+    }
+  ],
+  "neworder": [
+    {
+      "id": 1,
+      "date": "2020-08-19",
+      "recFN": "Jos",
+      "recLN": "Din",
+      "gcv": 8500,
+      "comAmt": 425,
+      "amtPay": 8925,
+      "recMob": 898976567,
+      "addr": "chennai",
+      "sts": "Out for Delivery"
+    },
+    {
+      "date": "2020-08-20",
+      "recFN": "Jagan",
+      "recLN": "das",
+      "gcv": "9000",
+      "comAmt": 450,
+      "amtPay": 9450,
+      "recMob": "9876878356",
+      "addr": "13, chrompet, chennai",
+      "sts": "Redeemed",
+      "id": 2
+    },
+    {
+      "date": "2020-08-23",
+      "recFN": "Pavithra",
+      "recLN": "Prakash",
+      "gcv": "20000",
+      "comAmt": 1000,
+      "amtPay": 21000,
+      "recMob": "980637592",
+      "addr": "Delhi",
+      "sts": "Delivered",
+      "id": 3
+    },
+    {
+      "date": "2/2/2020",
+      "recFN": "pavani",
+      "recLN": "reddy",
+      "gcv": "3000",
+      "comAmt": 300,
+      "amtPay": 3300,
+      "recMob": "8056122799",
+      "addr": "khammam",
+      "sts": "Order Placed",
+      "id": 4
+    },
+    {
+      "date": "2/2/2020",
+      "recFN": "pavani",
+      "recLN": "reddy",
+      "gcv": "3000",
+      "comAmt": 300,
+      "amtPay": 3300,
+      "recMob": "8056122799",
+      "addr": "khammam",
+      "sts": "Order Placed",
+      "id": 5
+    },
+    {
+      "date": "",
+      "recFN": "",
+      "recLN": "",
+      "gcv": "",
+      "comAmt": "",
+      "amtPay": "",
+      "recMob": "",
+      "addr": "",
+      "sts": "Order Placed",
+      "id": 6
+    }
+  ]
+}
